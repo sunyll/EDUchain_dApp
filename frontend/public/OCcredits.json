@@ -1,0 +1,514 @@
+[
+    {
+        "identifier": "ea742a1f-0dea-4b60-bd43-c4fe5fb61936",
+        "achievementType": "Certificate",
+        "name": "Blockchain Certification",
+        "description": "An introductory blockchain bootcamp class.",
+        "skills": {
+            "Blockchain": "Intermediate",
+            "Smart Contracts": "Beginner"
+        },
+        "hours": 40,
+        "categories": [
+            "Programming",
+            "Blockchain"
+        ],
+        "yearCreated": "2021",
+        "lastUpdated": "2023"
+    },
+    {
+        "identifier": "ceeb0018-f33d-4ccf-96b9-ec6d50318c46",
+        "achievementType": "Achievement",
+        "name": "Gold Medal in Mathematics",
+        "description": "Awarded for outstanding performance in mathematics.",
+        "skills": {
+            "Mathematics": "Advanced",
+            "Analytical Thinking": "Advanced"
+        },
+        "hours": 20,
+        "categories": [
+            "Mathematics"
+        ],
+        "yearCreated": "2020",
+        "lastUpdated": "2022"
+    },
+    {
+        "identifier": "d9e3f65a-80e6-434d-aa2d-7d7a2270f7ff",
+        "achievementType": "Badge",
+        "name": "Data Science Proficiency",
+        "description": "Recognized for demonstrating proficiency in data science.",
+        "skills": {
+            "Data Science": "Intermediate",
+            "Statistics": "Intermediate"
+        },
+        "hours": 30,
+        "categories": [
+            "Data Science",
+            "Statistics"
+        ],
+        "yearCreated": "2022",
+        "lastUpdated": "2023"
+    },
+    {
+        "identifier": "18d450a2-afea-469f-b43f-76a4165ea4d5",
+        "achievementType": "Certificate",
+        "name": "Web Development Essentials",
+        "description": "Completed the essentials of web development.",
+        "skills": {
+            "HTML": "Beginner",
+            "CSS": "Beginner",
+            "JavaScript": "Beginner"
+        },
+        "hours": 40,
+        "categories": [
+            "Web Development",
+            "Programming"
+        ],
+        "yearCreated": "2019",
+        "lastUpdated": "2023"
+    },
+    {
+        "identifier": "9be1c10a-43ec-4ce3-945d-2b7a9ebf2421",
+        "achievementType": "Award",
+        "name": "Best Team Player",
+        "description": "Awarded for exemplary teamwork skills.",
+        "skills": {
+            "Teamwork": "Advanced",
+            "Communication": "Intermediate"
+        },
+        "hours": 15,
+        "categories": [
+            "Soft Skills",
+            "Teamwork"
+        ],
+        "yearCreated": "2021",
+        "lastUpdated": "2022"
+    },
+    {
+        "identifier": "e3e328dd-6e03-4601-bdb8-1d2badcca262",
+        "achievementType": "Certificate",
+        "name": "Python Programming",
+        "description": "Completed a course on Python programming basics.",
+        "skills": {
+            "Python": "Beginner",
+            "Programming": "Beginner"
+        },
+        "hours": 25,
+        "categories": [
+            "Programming",
+            "Python"
+        ],
+        "yearCreated": "2018",
+        "lastUpdated": "2020"
+    },
+    {
+        "identifier": "f57d2b8c-ba76-494b-b2fa-f1f22cfc6b2e",
+        "achievementType": "Badge",
+        "name": "Front-End Development",
+        "description": "Achieved proficiency in front-end web development.",
+        "skills": {
+            "HTML": "Intermediate",
+            "CSS": "Intermediate",
+            "JavaScript": "Intermediate"
+        },
+        "hours": 50,
+        "categories": [
+            "Web Development",
+            "Programming"
+        ],
+        "yearCreated": "2020",
+        "lastUpdated": "2021"
+    },
+    {
+        "identifier": "fc04a75f-fd65-48d8-beca-83d90526c858",
+        "achievementType": "Certificate",
+        "name": "Artificial Intelligence Basics",
+        "description": "Completed an introductory AI course.",
+        "skills": {
+            "Artificial Intelligence": "Beginner",
+            "Machine Learning": "Beginner"
+        },
+        "hours": 30,
+        "categories": [
+            "Artificial Intelligence",
+            "Machine Learning"
+        ],
+        "yearCreated": "2021",
+        "lastUpdated": "2022"
+    },
+    {
+        "identifier": "6e1f6caa-eaf4-46a0-9440-b3c74a1e6afc",
+        "achievementType": "Award",
+        "name": "Innovation Award",
+        "description": "Recognized for innovative solutions in project work.",
+        "skills": {
+            "Innovation": "Advanced",
+            "Problem Solving": "Advanced"
+        },
+        "hours": 10,
+        "categories": [
+            "Innovation",
+            "Soft Skills"
+        ],
+        "yearCreated": "2019",
+        "lastUpdated": "2022"
+    },
+    {
+        "identifier": "9ce8be3b-6426-48f2-96cc-1663878aada0",
+        "achievementType": "Certificate",
+        "name": "Digital Marketing",
+        "description": "Completed a course on digital marketing fundamentals.",
+        "skills": {
+            "Marketing": "Intermediate",
+            "Digital Strategy": "Beginner"
+        },
+        "hours": 35,
+        "categories": [
+            "Marketing",
+            "Digital Strategy"
+        ],
+        "yearCreated": "2020",
+        "lastUpdated": "2021"
+    },
+    {
+        "identifier": "49b0be53-c9ff-4c95-9e6f-1235ac896f28",
+        "achievementType": "Certificate",
+        "name": "React Development Certificate",
+        "description": "Completed an advanced course in React development.",
+        "skills": {
+            "React": "Advanced",
+            "JavaScript": "Advanced"
+        },
+        "hours": 40,
+        "categories": [
+            "Programming",
+            "Web Development"
+        ],
+        "yearCreated": "2021",
+        "lastUpdated": "2023"
+    },
+    {
+        "identifier": "a2b9bf55-6206-4ac9-8bf4-889472a8e5c1",
+        "achievementType": "Award",
+        "name": "Top Sales Performer",
+        "description": "Awarded for achieving top sales targets.",
+        "skills": {
+            "Sales": "Expert",
+            "Negotiation": "Advanced"
+        },
+        "hours": 20,
+        "categories": [
+            "Sales",
+            "Business"
+        ],
+        "yearCreated": "2020",
+        "lastUpdated": "2021"
+    },
+    {
+        "identifier": "7ff7d19b-936f-4cd9-b8e1-d12fa0e8a54e",
+        "achievementType": "Badge",
+        "name": "Machine Learning Basics",
+        "description": "Completed an introductory course on machine learning concepts.",
+        "skills": {
+            "Machine Learning": "Beginner",
+            "Python": "Intermediate"
+        },
+        "hours": 30,
+        "categories": [
+            "Data Science",
+            "AI"
+        ],
+        "yearCreated": "2022",
+        "lastUpdated": "2022"
+    },
+    {
+        "identifier": "ccd4a591-9c62-4b0d-b8b8-48db6c04db6b",
+        "achievementType": "Certificate",
+        "name": "Cybersecurity Essentials",
+        "description": "Completed a comprehensive course on cybersecurity basics.",
+        "skills": {
+            "Cybersecurity": "Intermediate",
+            "Risk Management": "Beginner"
+        },
+        "hours": 45,
+        "categories": [
+            "IT",
+            "Security"
+        ],
+        "yearCreated": "2023",
+        "lastUpdated": "2023"
+    },
+    {
+        "identifier": "d1b5ab3c-b6f1-42b3-839e-15a926cdee55",
+        "achievementType": "Achievement",
+        "name": "UI/UX Design Fundamentals",
+        "description": "Awarded for completing a course on UI/UX design.",
+        "skills": {
+            "UI Design": "Intermediate",
+            "User Experience": "Intermediate"
+        },
+        "hours": 20,
+        "categories": [
+            "Design",
+            "Web Development"
+        ],
+        "yearCreated": "2020",
+        "lastUpdated": "2022"
+    },
+    {
+        "identifier": "e1f4a7cf-5898-4d84-9033-78c89bdf7641",
+        "achievementType": "Award",
+        "name": "Teamwork Excellence Award",
+        "description": "Awarded for exceptional teamwork in project management.",
+        "skills": {
+            "Teamwork": "Advanced",
+            "Communication": "Advanced"
+        },
+        "hours": 15,
+        "categories": [
+            "Soft Skills",
+            "Project Management"
+        ],
+        "yearCreated": "2018",
+        "lastUpdated": "2021"
+    },
+    {
+        "identifier": "ff789a1e-77b4-4901-982b-fc8de7f18a1a",
+        "achievementType": "Badge",
+        "name": "Data Visualization with Python",
+        "description": "Completed a course on data visualization techniques in Python.",
+        "skills": {
+            "Data Visualization": "Intermediate",
+            "Python": "Advanced"
+        },
+        "hours": 25,
+        "categories": [
+            "Data Science",
+            "Programming"
+        ],
+        "yearCreated": "2021",
+        "lastUpdated": "2022"
+    },
+    {
+        "identifier": "16f2f793-8f3b-4f77-a3e1-97eb29194e2b",
+        "achievementType": "Certificate",
+        "name": "Blockchain Basics",
+        "description": "Completed an introductory course on blockchain technology.",
+        "skills": {
+            "Blockchain": "Beginner",
+            "Cryptography": "Beginner"
+        },
+        "hours": 40,
+        "categories": [
+            "Blockchain",
+            "Finance"
+        ],
+        "yearCreated": "2022",
+        "lastUpdated": "2023"
+    },
+    {
+        "identifier": "d52f3014-ea8d-497a-abe9-3c1829cbd6c8",
+        "achievementType": "Achievement",
+        "name": "Project Management Certification",
+        "description": "Awarded for completing a certification in project management.",
+        "skills": {
+            "Project Management": "Advanced",
+            "Leadership": "Intermediate"
+        },
+        "hours": 60,
+        "categories": [
+            "Management",
+            "Business"
+        ],
+        "yearCreated": "2019",
+        "lastUpdated": "2022"
+    },
+    {
+        "identifier": "29e11d4c-5b1f-46f6-b47b-4823d1f8293a",
+        "achievementType": "Badge",
+        "name": "SQL for Data Analysis",
+        "description": "Completed a course on SQL for data analysis.",
+        "skills": {
+            "SQL": "Advanced",
+            "Data Analysis": "Intermediate"
+        },
+        "hours": 35,
+        "categories": [
+            "Data Science",
+            "Programming"
+        ],
+        "yearCreated": "2021",
+        "lastUpdated": "2023"
+    },
+    {
+        "identifier": "b671de6e-4d56-4025-a4f2-9f8c4f78e94b",
+        "achievementType": "Certificate",
+        "name": "Advanced JavaScript",
+        "description": "Completed an advanced course on JavaScript programming.",
+        "skills": {
+            "JavaScript": "Advanced",
+            "Web Development": "Advanced"
+        },
+        "hours": 40,
+        "categories": [
+            "Programming",
+            "Web Development"
+        ],
+        "yearCreated": "2020",
+        "lastUpdated": "2021"
+    },
+    {
+        "identifier": "3d10e29c-2f11-4dc9-9ff9-c50663985f6e",
+        "achievementType": "Award",
+        "name": "Innovation in Data Science",
+        "description": "Awarded for innovative solutions in data science projects.",
+        "skills": {
+            "Data Science": "Expert",
+            "Innovation": "Advanced"
+        },
+        "hours": 25,
+        "categories": [
+            "Data Science",
+            "Innovation"
+        ],
+        "yearCreated": "2018",
+        "lastUpdated": "2020"
+    },
+    {
+        "identifier": "f7f5c593-5937-4b8b-bd3d-1a5c687f4b2e",
+        "achievementType": "Certificate",
+        "name": "Python Programming for Beginners",
+        "description": "Completed a beginner course on Python programming.",
+        "skills": {
+            "Python": "Beginner",
+            "Problem Solving": "Beginner"
+        },
+        "hours": 20,
+        "categories": [
+            "Programming",
+            "Soft Skills"
+        ],
+        "yearCreated": "2021",
+        "lastUpdated": "2023"
+    },
+    {
+        "identifier": "2d3fb9d9-3498-4dbf-a8f9-9f8e74d63e47",
+        "achievementType": "Badge",
+        "name": "Git and Version Control",
+        "description": "Completed a course on Git and version control.",
+        "skills": {
+            "Git": "Intermediate",
+            "Collaboration": "Intermediate"
+        },
+        "hours": 10,
+        "categories": [
+            "Programming",
+            "Collaboration"
+        ],
+        "yearCreated": "2020",
+        "lastUpdated": "2022"
+    },
+    {
+        "identifier": "e348ab4d-7593-4c13-8c3e-50b4622a93e1",
+        "achievementType": "Achievement",
+        "name": "Customer Service Excellence",
+        "description": "Awarded for outstanding customer service skills.",
+        "skills": {
+            "Customer Service": "Advanced",
+            "Communication": "Advanced"
+        },
+        "hours": 15,
+        "categories": [
+            "Business",
+            "Soft Skills"
+        ],
+        "yearCreated": "2019",
+        "lastUpdated": "2021"
+    },
+    {
+        "identifier": "c4f2d40e-6ef4-4d6d-a67f-7c4b86d3b3f2",
+        "achievementType": "Certificate",
+        "name": "Full-Stack Web Development",
+        "description": "Completed a course on full-stack web development.",
+        "skills": {
+            "HTML": "Advanced",
+            "CSS": "Advanced",
+            "JavaScript": "Advanced"
+        },
+        "hours": 80,
+        "categories": [
+            "Web Development",
+            "Programming"
+        ],
+        "yearCreated": "2022",
+        "lastUpdated": "2023"
+    },
+    {
+        "identifier": "5d8eb3fa-45ae-489b-a321-1ecb5ecb0a89",
+        "achievementType": "Award",
+        "name": "Leadership Excellence",
+        "description": "Recognized for excellence in leadership roles.",
+        "skills": {
+            "Leadership": "Advanced",
+            "Team Management": "Advanced"
+        },
+        "hours": 20,
+        "categories": [
+            "Soft Skills",
+            "Management"
+        ],
+        "yearCreated": "2017",
+        "lastUpdated": "2020"
+    },
+    {
+        "identifier": "83d93b13-8744-44f7-bc96-d5949d0e8e7d",
+        "achievementType": "Badge",
+        "name": "Cloud Computing Basics",
+        "description": "Completed a course on cloud computing fundamentals.",
+        "skills": {
+            "Cloud Computing": "Beginner",
+            "Infrastructure": "Beginner"
+        },
+        "hours": 30,
+        "categories": [
+            "IT",
+            "Infrastructure"
+        ],
+        "yearCreated": "2022",
+        "lastUpdated": "2022"
+    },
+    {
+        "identifier": "91ad99e5-44e7-45c9-9e7b-e4f3bc52e2f2",
+        "achievementType": "Certificate",
+        "name": "Advanced SQL for Data Analysis",
+        "description": "Completed an advanced SQL course for data analysis.",
+        "skills": {
+            "SQL": "Advanced",
+            "Data Analysis": "Advanced"
+        },
+        "hours": 50,
+        "categories": [
+            "Data Science",
+            "Programming"
+        ],
+        "yearCreated": "2020",
+        "lastUpdated": "2022"
+    },
+    {
+        "identifier": "b8cb3d63-2f6b-4ac9-bb98-7dcbd98fb02a",
+        "achievementType": "Certificate",
+        "name": "AWS Solutions Architect",
+        "description": "Achieved AWS Solutions Architect Certification.",
+        "skills": {
+            "AWS": "Expert",
+            "Cloud Architecture": "Advanced"
+        },
+        "hours": 60,
+        "categories": [
+            "IT",
+            "Cloud"
+        ],
+        "yearCreated": "2021",
+        "lastUpdated": "2023"
+    }
+]
